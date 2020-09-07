@@ -1,2 +1,2 @@
-# Site-for-PC
+# WebsiteForPC
 Simple site for PC or laptop
